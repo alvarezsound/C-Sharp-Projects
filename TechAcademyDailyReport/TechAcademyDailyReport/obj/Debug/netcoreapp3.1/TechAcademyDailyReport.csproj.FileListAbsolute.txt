@@ -1,0 +1,14 @@
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\netcoreapp3.1\TechAcademyDailyReport.csproj.AssemblyReference.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\netcoreapp3.1\TechAcademyDailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\netcoreapp3.1\TechAcademyDailyReport.AssemblyInfoInputs.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\netcoreapp3.1\TechAcademyDailyReport.AssemblyInfo.cs
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\netcoreapp3.1\TechAcademyDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\netcoreapp3.1\TechAcademyDailyReport.exe
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\netcoreapp3.1\TechAcademyDailyReport.deps.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\netcoreapp3.1\TechAcademyDailyReport.runtimeconfig.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\netcoreapp3.1\TechAcademyDailyReport.runtimeconfig.dev.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\netcoreapp3.1\TechAcademyDailyReport.dll
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\netcoreapp3.1\TechAcademyDailyReport.pdb
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\netcoreapp3.1\TechAcademyDailyReport.dll
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\netcoreapp3.1\TechAcademyDailyReport.pdb
+C:\Users\jeff\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\netcoreapp3.1\TechAcademyDailyReport.genruntimeconfig.cache
