@@ -1,0 +1,14 @@
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.csproj.AssemblyReference.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.AssemblyInfoInputs.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.AssemblyInfo.cs
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.exe
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.deps.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.runtimeconfig.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.runtimeconfig.dev.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.dll
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.pdb
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.dll
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.pdb
+C:\Users\jeff\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.genruntimeconfig.cache
