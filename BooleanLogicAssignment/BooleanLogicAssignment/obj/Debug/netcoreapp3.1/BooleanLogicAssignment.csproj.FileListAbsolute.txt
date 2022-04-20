@@ -1,0 +1,14 @@
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.exe
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.deps.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.runtimeconfig.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.runtimeconfig.dev.json
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.dll
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.pdb
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.AssemblyInfoInputs.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.AssemblyInfo.cs
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.dll
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.pdb
+C:\Users\jeff\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.genruntimeconfig.cache
