@@ -16,7 +16,7 @@ namespace BooleanLogicAssignment
             string ticketsInput = Console.ReadLine(); //user inputs a number as a string
             int tickets = Convert.ToInt32(ticketsInput); //converts the string to integer
             Console.WriteLine("Qualified?");
-            bool result = age > 15 && dui == true && tickets <= 3; //compares needed values to be true
+            bool result = age > 15 && dui == false && tickets <= 3; //compares needed values to be true
             Console.WriteLine(result); //displays result to console
         }
     }
