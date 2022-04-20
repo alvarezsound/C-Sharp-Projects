@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.genruntimeconfig.cache
