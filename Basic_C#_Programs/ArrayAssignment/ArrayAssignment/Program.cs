@@ -27,7 +27,7 @@ class Program
         string choiceTwo = Console.ReadLine(); // users input as a string
         int indexTwo = Convert.ToInt32(choiceTwo); // converts users input to a integer
 
-        if (indexOne > 6) 
+        if (indexTwo > 6) 
         {
             Console.WriteLine("Invalid index!"); // error message displays if user input is > 6
 
@@ -48,7 +48,7 @@ class Program
         string choiceThree = Console.ReadLine(); // users input as a string
         int indexThree = Convert.ToInt32(choiceThree); // converts users input to a integer
 
-        if (indexOne > 4)
+        if (indexThree > 4)
         {
             Console.WriteLine("Invalid index!"); // error message displays if user input is > 6
 
