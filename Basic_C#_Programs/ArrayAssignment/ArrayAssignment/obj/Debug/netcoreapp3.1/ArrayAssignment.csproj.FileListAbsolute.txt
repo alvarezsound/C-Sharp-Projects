@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.genruntimeconfig.cache
