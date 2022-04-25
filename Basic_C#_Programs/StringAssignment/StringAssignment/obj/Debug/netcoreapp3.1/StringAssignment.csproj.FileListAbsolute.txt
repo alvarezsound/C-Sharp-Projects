@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.genruntimeconfig.cache
