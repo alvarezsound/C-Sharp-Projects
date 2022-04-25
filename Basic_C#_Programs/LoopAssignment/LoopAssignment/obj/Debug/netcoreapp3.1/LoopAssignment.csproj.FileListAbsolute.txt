@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.genruntimeconfig.cache
