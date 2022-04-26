@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.genruntimeconfig.cache
