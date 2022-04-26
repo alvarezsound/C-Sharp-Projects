@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringsAndIntegersAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringsAndIntegersAssignment.genruntimeconfig.cache
