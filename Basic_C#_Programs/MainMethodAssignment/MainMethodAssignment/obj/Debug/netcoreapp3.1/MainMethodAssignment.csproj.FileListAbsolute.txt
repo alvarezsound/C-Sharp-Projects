@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.genruntimeconfig.cache
