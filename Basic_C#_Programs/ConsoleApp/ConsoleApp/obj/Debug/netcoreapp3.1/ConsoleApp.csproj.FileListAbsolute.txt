@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
