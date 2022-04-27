@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj": {}
+    "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj": {
+    "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj",
-        "projectName": "MethodsAndObjectsAssignment",
-        "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
+        "projectName": "AbstractClass",
+        "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
         "packagesPath": "C:\\Users\\jeff\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\MethodsAndObjectsAssignment\\MethodsAndObjectsAssignment\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Assigments\\AbstractClass\\AbstractClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
