@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.genruntimeconfig.cache
