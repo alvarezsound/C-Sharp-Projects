@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectsAssignment.genruntimeconfig.cache
