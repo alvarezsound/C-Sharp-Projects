@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.genruntimeconfig.cache
