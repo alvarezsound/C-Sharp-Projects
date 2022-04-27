@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.deps.json
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.json
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfo.cs
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache
