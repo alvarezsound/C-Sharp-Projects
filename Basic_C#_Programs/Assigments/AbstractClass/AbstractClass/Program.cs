@@ -10,6 +10,8 @@ namespace AbstractClass
             employeeObject.FirstName = "Sample"; // add value to string property inherited from Person Class
             employeeObject.LastName = "Student"; // add value to string property inherited from Person Class
             employeeObject.SayName(); // call superclass method
+
+            employeeObject.Quit(); // call quit method which is inherited from the IQuittable interface
             Console.ReadLine();
         }
     }
