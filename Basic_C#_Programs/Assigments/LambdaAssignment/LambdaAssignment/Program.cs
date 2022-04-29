@@ -32,22 +32,27 @@ namespace LambdaAssignment
             // foreach loop to find all named "Joe"
             Console.WriteLine("for each loop to find Joes:");
 
-            foreach (Employee worker in employees)
+            List<Employee> Joes1 = new List<Employee>();
+            foreach (Employee employee in employees)
             {
-                if (worker.FirstName == "Joe")
+                if (employee.FirstName == "Joe")
                 {
-                    List<Employee> findJoe = new List<Employee>() { worker };
-                    Console.WriteLine("\n-First Name: \"" + worker.FirstName + "\" -Last Name: \"" + worker.LastName + "\" -ID: \"" + worker.ID + "\"");
+                    Console.WriteLine("\n-First Name: \"" + employee.FirstName + "\" -Last Name: \"" + employee.LastName + "\" -ID: \"" + employee.ID + "\"");
                 }
+            }
+            // Print to console
+            foreach (Employee joe in Joes1)
+            {
+                Console.WriteLine("\n-First Name: \"" + joe.FirstName + "\" -Last Name: \"" + joe.LastName + "\" -ID: \"" + joe.ID + "\"");
             }
 
             // Lambda to find all named "Joe" and add them to list
             Console.WriteLine("lamda expression to find Joes:");
 
-            List<Employee> findJoe2 = employees.Where(x => x.FirstName == "Joe").ToList();
+            List<Employee> Joes2 = employees.Where(x => x.FirstName == "Joe").ToList();
 
-            // Prints them to screen
-            foreach (Employee joe in findJoe2)
+            // Print to console
+            foreach (Employee joe in Joes2)
             {
                 Console.WriteLine("\n-First Name: \"" + joe.FirstName + "\" -Last Name: \"" + joe.LastName + "\" -ID: \"" + joe.ID + "\"");
             }
