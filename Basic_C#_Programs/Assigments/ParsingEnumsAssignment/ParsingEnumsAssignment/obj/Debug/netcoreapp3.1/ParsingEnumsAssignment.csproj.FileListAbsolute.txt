@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.exe
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.deps.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.genruntimeconfig.cache
