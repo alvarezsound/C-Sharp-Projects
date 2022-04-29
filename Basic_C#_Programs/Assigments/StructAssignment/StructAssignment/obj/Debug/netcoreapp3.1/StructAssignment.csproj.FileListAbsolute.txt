@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.exe
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.deps.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.pdb
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.pdb
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.genruntimeconfig.cache
