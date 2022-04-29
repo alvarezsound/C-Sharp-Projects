@@ -44,6 +44,7 @@ namespace AbstractClass
 
             employeeObject.Quit(); // call quit method which is inherited from the IQuittable interface
             Console.ReadLine();
+
         }
     }
 }
