@@ -40,3 +40,6 @@
 \\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
 \\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
 \\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.pdb
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CopyComplete

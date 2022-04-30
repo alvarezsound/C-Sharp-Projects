@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.exe
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.deps.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Assigments\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.genruntimeconfig.cache

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne\TwentyOne.csproj", "{C4A6F3DA-0631-43B4-9754-BAEB40E32D0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwentyOne", "TwentyOne\TwentyOne.csproj", "{C4A6F3DA-0631-43B4-9754-BAEB40E32D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{AE2E214C-8706-4464-AE82-88767AE82F66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C4A6F3DA-0631-43B4-9754-BAEB40E32D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4A6F3DA-0631-43B4-9754-BAEB40E32D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4A6F3DA-0631-43B4-9754-BAEB40E32D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2E214C-8706-4464-AE82-88767AE82F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2E214C-8706-4464-AE82-88767AE82F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2E214C-8706-4464-AE82-88767AE82F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2E214C-8706-4464-AE82-88767AE82F66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

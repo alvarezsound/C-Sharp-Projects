@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+\\Mac\Home\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
