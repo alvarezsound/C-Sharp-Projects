@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,7 +11,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcme to the Grand Hotel Casino! Let's start by telling me your name...");
+            Console.WriteLine("Welcome to the Grand Hotel Casino! Let's start by telling me your name...");
             string name = Console.ReadLine();
 
             Console.WriteLine("Hello, " + name + "! How much money did you bring today?");
