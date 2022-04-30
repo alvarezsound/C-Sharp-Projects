@@ -6,7 +6,6 @@ namespace LambdaAssignment
 {
     public class Employee : Person
     {
-        public int ID;
 
     }
 }

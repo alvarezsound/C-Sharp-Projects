@@ -37,7 +37,7 @@ namespace LambdaAssignment
             {
                 if (employee.FirstName == "Joe")
                 {
-                    Console.WriteLine("\n-First Name: \"" + employee.FirstName + "\" -Last Name: \"" + employee.LastName + "\" -ID: \"" + employee.ID + "\"");
+                    Joes1.Add(employee);
                 }
             }
             // Print to console

@@ -8,6 +8,6 @@ namespace LambdaAssignment
     {
         public string FirstName;
         public string LastName;
-
+        public int ID;
     }
 }
