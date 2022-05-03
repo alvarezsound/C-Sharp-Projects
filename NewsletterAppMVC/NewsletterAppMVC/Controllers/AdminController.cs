@@ -15,10 +15,7 @@ namespace NewsletterAppMVC.Controllers
         {
             using (NewsletterEntities db = new NewsletterEntities())
             {
-                //var signups = db.SignUps.Where(x => x.Removed == null).ToList();
-                var signups = (from c in db.SignUps
-                               where c.Removed == null
-                               select c).ToList();
+                var signups = db.SignUps.Where(x => x.Removed == null).ToList();
 
                 var signupVms = new List<SignupVm>();
                 foreach (var signup in signups)
@@ -27,7 +24,7 @@ namespace NewsletterAppMVC.Controllers
                     signupVm.Id = signup.Id;
                     signupVm.FirstName = signup.FirstName;
                     signupVm.LastName = signup.LastName;
-                    signupVm.Email = signup.Email;
+                    signupVm.EmailAddress = signup.EmailAddress;
                     signupVms.Add(signupVm);
                 }
                 return View(signupVms);

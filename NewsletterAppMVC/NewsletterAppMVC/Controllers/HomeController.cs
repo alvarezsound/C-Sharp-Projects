@@ -32,7 +32,7 @@ namespace NewsletterAppMVC.Controllers
                     var signup = new SignUp();
                     signup.FirstName = firstName;
                     signup.LastName = lastName;
-                    signup.Email = emailAddress;
+                    signup.EmailAddress = emailAddress;
 
                     db.SignUps.Add(signup);
                     db.SaveChanges();
