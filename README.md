@@ -1,10 +1,10 @@
 # C# Projects
 This is the repository for all of my C# and .NET course projects!
 ## Projects:
-- [C-Sharp Challenges](#C-Sharp-Challenges)
-- [C-Sharp Exercises](#C-Sharp-Excercises)
+- [C# Challenges](#C#-Challenges)
+- [C# Exercises](#C#-Excercises)
 
-## C-Sharp Challenges
+## C# Challenges
 Various challenges where I was given a prompt of a small program to create and code from scratch in Visual Studio using knowledge gained in the course and further research.
-## C-Sharp Exercises
+## C# Exercises
 Various assignments and exercises used to build familiarity with C#.
