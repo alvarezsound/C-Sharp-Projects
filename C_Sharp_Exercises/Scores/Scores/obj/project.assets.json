@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Exercsises\\Scores\\Scores\\Scores.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Exercises\\Scores\\Scores\\Scores.csproj",
       "projectName": "Scores",
-      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Exercsises\\Scores\\Scores\\Scores.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Exercises\\Scores\\Scores\\Scores.csproj",
       "packagesPath": "C:\\Users\\jeff\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Exercsises\\Scores\\Scores\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Exercises\\Scores\\Scores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
