@@ -1,11 +1,11 @@
 # C# Projects
 This is the repository for all of my C# and .NET course projects!
 ## Projects:
-- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/CarInsurance">Car Insurance Quotes</a>
-- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/NewsletterAppMVC">Newsletter Sign-up</a>
-- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/TwentyOne">Twenty One Game</a>
-- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/C_Sharp_Challenges">C# Challenges</a>
-- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/C_Sharp_Exercises">C# Exercises</a>
+- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/CarInsurance" target="_blank">Car Insurance Quotes</a>
+- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/NewsletterAppMVC" target="_blank">Newsletter Sign-up</a>
+- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/TwentyOne" target="_blank">Twenty One Game</a>
+- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/C_Sharp_Challenges" target="_blank">C# Challenges</a>
+- <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/C_Sharp_Exercises" target="_blank">C# Exercises</a>
 ## Car Insurance Quotes
 This app is an ASP.NET MVC web App that calculates a car insurance quote based on information provided by the user. ADO.NET Entity Data Model was used to create the Insuree data model used in the application and Bootstrap was used for basic styling. This app contains a Home Controller, Admin Controller, and an Insuree Controller along with corresponding views to render information to the user. The Admin view passe in a view model to limit the information sent to the Admin while the Admin Controller contains methods view to display all quotes that have been issued and stored in the database. The Insuree Controller contains a GetQuote method that calculates a monthly quote based on user-provided information passed in through a form on the webpage. Once the quote has been calculated, the quote is displayed to the user via the Insuree details view.
 ## Twenty One Game
