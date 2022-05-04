@@ -1,5 +1,5 @@
 # C# Projects
-This is the repository for all of my C# and .NET course projects!
+This is the repository for all of my C# and .NET course projects! Click the links below to view the files.
 ## Projects:
 - <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/CarInsurance" target="_blank">Car Insurance Quotes</a>
 - <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/NewsletterAppMVC" target="_blank">Newsletter Sign-up</a>
