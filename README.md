@@ -81,6 +81,7 @@ InsureeController.cs GetQuote method:
         }
 ```
 ![Get Quote Insert](/Images/CarInsurance_1)
+
 ![Get Quote Results](/Images/CarInsurance_2)
 ## Twenty One Game
 This is a basic console app built in the .NET Framework that creates a Twenty One card game. It utilizes namespaces, classes, and inheritance in a way that would allow the app to be expanded to other Casino-style games. Included classes: Card, Dealer, Deck, Player, Game, and a Fraud Exception class to alert Casino security when fraudulent activity is detected. Additionally, the following classes utilize inheritance :TwentyOneDealer inherits from Dealer and TwentyOneGame inherits from Game. The TwentyOneRules class is used to define the rules of TwentyOne and includes methods that determine if a player/dealer has busted, if the dealer should hit or stay, or if either has Blackjack.
