@@ -89,6 +89,54 @@ Result:
 This is a basic console app built in the .NET Framework that creates a Twenty One card game. It utilizes namespaces, classes, and inheritance in a way that would allow the app to be expanded to other Casino-style games. Included classes: Card, Dealer, Deck, Player, Game, and a Fraud Exception class to alert Casino security when fraudulent activity is detected. Additionally, the following classes utilize inheritance :TwentyOneDealer inherits from Dealer and TwentyOneGame inherits from Game. The TwentyOneRules class is used to define the rules of TwentyOne and includes methods that determine if a player/dealer has busted, if the dealer should hit or stay, or if either has Blackjack.
 ## Newsletter Sign-up
 This is simple ASP.NET MVC web app used to get and keep track of newsletter signups. ADO.NET is used to send/retrieve information to/from the Newsletter SQL database. There is an Admin and Home controller along with corresponding views to render the information to the user using Bootstrap styling. The Home view uses a simple form to collect signup information from the user, and the Home Controller SignUp method stores this informatin in a database. The Admin view passes in a viewmodel as a list to limit information sent directly to the Admin page. The Admin Controller contains a function to retrieve user information from the database and an unsubscribe function to update the database that a user has unsubscribed from the newsletter.
+## Shipping Quote Console App
+A program that asks for the dimensions and weight of the user's shipment and calculates the total cost to ship. Contains if statements to determine if package is too large/heavy to ship.
+
+Code highlight:
+Program.cs
+```cs
+namespace ShippingQuote
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
+            Console.WriteLine("Please enter the package weight:");
+            string weightInput = Console.ReadLine(); //user inputs a number as a string
+            int weight = Convert.ToInt32(weightInput); //converts the string to integer
+
+            if (weight > 50) // if statement to check weight condition
+            {
+                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                return; // if condition is true then thhe above message will display and program ends
+            }
+
+            Console.WriteLine("Please enter the package height:");
+            string heightInput = Console.ReadLine(); //user inputs a number as a string
+            int height = Convert.ToInt32(heightInput); //converts the string to integer 
+
+            Console.WriteLine("Please enter the package width:");
+            string widthInput = Console.ReadLine(); //user inputs a number as a string
+            int width = Convert.ToInt32(widthInput); //converts the string to integer
+
+            Console.WriteLine("Please enter the package length:");
+            string lengthInput = Console.ReadLine(); //user inputs a number as a string
+            int length = Convert.ToInt32(lengthInput); //converts the string to integer
+
+            int dimensions = length + width + height; //add up all the dimensions
+            if (dimensions > 50) // if statement to check dimension condition
+            {
+                Console.WriteLine("Package too big to be shipped via Package Express.");
+                return; // if condition is true then the above message will display and program ends
+            }
+            int result = ((height * width * length) * weight) / 100; // math to find the cost of shipping
+            Console.WriteLine("Your estimated total for shipping this package is: " + result.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("en-us"))); // displays result in dollar amount to console
+            Console.WriteLine("Thank you!");
+        }
+    }
+}
+```
 ## C# Challenges
 Using Visual Studio, I was given various challenges to create and code small programs from scratch using knowledge gained in the course and further research.
 ## C# Exercises

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BranchingAssignment
+namespace ShippingQuote
 {
     class Program
     {

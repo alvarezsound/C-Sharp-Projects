@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\Basic_C#_Programs\\BranchingAssignment\\BranchingAssignment\\BranchingAssignment.csproj": {}
+    "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Challenges\\BranchingAssignment\\BranchingAssignment\\ShippingQuote.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\Basic_C#_Programs\\BranchingAssignment\\BranchingAssignment\\BranchingAssignment.csproj": {
+    "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Challenges\\BranchingAssignment\\BranchingAssignment\\ShippingQuote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Basic_C#_Programs\\BranchingAssignment\\BranchingAssignment\\BranchingAssignment.csproj",
-        "projectName": "BranchingAssignment",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\Basic_C#_Programs\\BranchingAssignment\\BranchingAssignment\\BranchingAssignment.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Challenges\\BranchingAssignment\\BranchingAssignment\\ShippingQuote.csproj",
+        "projectName": "ShippingQuote",
+        "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Challenges\\BranchingAssignment\\BranchingAssignment\\ShippingQuote.csproj",
         "packagesPath": "C:\\Users\\jeff\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\Basic_C#_Programs\\BranchingAssignment\\BranchingAssignment\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\C-Sharp-Projects\\C_Sharp_Challenges\\BranchingAssignment\\BranchingAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
