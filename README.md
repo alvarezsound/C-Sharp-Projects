@@ -1,4 +1,4 @@
-# C# Projects
+# Csharp Projects
 This is the repository for all of my C# and .NET course projects! Click the links below to view the files.
 ## Projects:
 - <a href="https://github.com/alvarezsound/C-Sharp-Projects/tree/main/CarInsurance" target="_blank">Car Insurance Quotes</a>
@@ -142,4 +142,4 @@ Using Visual Studio, I was given various challenges to create and code small pro
 ## C# Exercises
 Various assignments and exercises used to build familiarity with C#.
 
-Back to [top](#C#-Projects)
+Back to [top](#Csharp-Projects)
